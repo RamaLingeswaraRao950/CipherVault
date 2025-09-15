@@ -1,6 +1,6 @@
 # 🔒 CipherVault
 
-A modern **Caesar Cipher GUI application** built with **Python (Tkinter)** for secure and fun messaging!  
+A modern **CipherVault GUI application** built with **Python (Tkinter)** for secure and fun messaging!  
 Encrypt, decrypt, or brute-force messages easily with **custom keys**, **dark mode**, and file handling features.  
 
 ### ✨ Features :--
@@ -22,7 +22,6 @@ Encrypt, decrypt, or brute-force messages easily with **custom keys**, **dark mo
 ### 📦 Requirements :--
 
 - Python 3.7+
-
 - Libraries :
 
           - tkinter (built-in)
@@ -50,8 +49,6 @@ Encrypt, decrypt, or brute-force messages easily with **custom keys**, **dark mo
 - Light Mode ☀️ – Default clean look
 - Dark Mode 🌙 – Sleek, eye-friendly interface
 
-### 🔒 Secure your messages, have fun, and enjoy coding with CipherVault! 🔐
+🔒 Secure your messages, have fun, and enjoy coding with CipherVault ! 🔐
 
 🤝 Contributions are welcome !
-
-👨‍💻 Author :-- Rama Lingeswara Rao Sivakavi
